@@ -44,4 +44,4 @@ Finaly, all the parts I used.
 
 #### I do not need the 3D printed case - I have a 3D printer at home
 
-Thank you Blueprint for giving us this awesome experience!
+Thank you HackClub for giving us this awesome experience!
