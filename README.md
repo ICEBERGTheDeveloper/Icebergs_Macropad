@@ -14,7 +14,7 @@ Once I get the parts in real life, I can make the case better as I do not know t
 
 
 ## PCB
-The PCB was designed with 9 switches, 9 diodes, the Seeed Studio XIAO RP2040, an EC11 Rotary encoder, a 128x32 OLED screen, and a nice silkscreen graphic!
+The PCB was designed with 9 switches, 9 diodes, the Seeed Studio XIAO RP2040, an EC11 Rotary encoder, a 128x32 OLED screen, and a nice silkscreen graphic! The mounting holes in it are for the future if I need to mount the PCB inside the case, but for now, I wont be using them :)
 
 <img width="573" height="857" alt="Screenshot 2026-01-17 112326" src="https://github.com/user-attachments/assets/ba9ea18e-746c-4827-b354-0846617b7ec0" />
 
